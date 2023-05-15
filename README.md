@@ -11,11 +11,11 @@
 
 - Project Name: 'HTML-CSS_Projects';
 - Languages: HTML/CSS;
-- Softwares/Work Tools: 'V.S. Code/ATOM';
+- Softwares/Work Tools: 'V.S. Code/ATOM/CodePen Web';
 - Resume: ;
 - Obs: ;
 - Version: v.1.0.0
 
-- Last Update Date: 02/05/2023.
+- Last Update Date: 15/05/2023.
 
 ##
