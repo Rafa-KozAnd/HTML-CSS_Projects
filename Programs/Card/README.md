@@ -1,7 +1,7 @@
 # Card
 
 - Project Name: 'Card';
-- Status: Under Development;
+- Status: Concluded;
 - Languages: HTML/CSS/JavaScript;
 - Softwares/Work Tools: 'CodePen Web';
 - Resume: ;
