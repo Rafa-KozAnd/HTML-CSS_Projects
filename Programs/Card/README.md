@@ -12,3 +12,5 @@
 
 ##
 - website to see the code: https://codepen.io/pen/
+
+![Card](https://github.com/Rafa-KozAnd/HTML-CSS_Projects/assets/70545003/5619735b-1071-4a8f-92a2-494d7a316284)
