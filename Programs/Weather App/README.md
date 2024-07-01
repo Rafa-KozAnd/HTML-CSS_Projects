@@ -1,6 +1,6 @@
-# Save The Fish
+# Weather App
 
-- Project Name: 'Save The Fish';
+- Project Name: 'Weather App';
 - Status: Concluded;
 - Languages: HTML/CSS/JavaScript;
 - Softwares/Work Tools: 'CodePen Web';

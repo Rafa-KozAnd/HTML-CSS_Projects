@@ -1,6 +1,6 @@
-# Save The Fish
+# Analog Clock
 
-- Project Name: 'Save The Fish';
+- Project Name: 'Analog Clock';
 - Status: Concluded;
 - Languages: HTML/CSS/JavaScript;
 - Softwares/Work Tools: 'CodePen Web';

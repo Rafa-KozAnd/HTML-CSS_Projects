@@ -1,6 +1,6 @@
-# Save The Fish
+# Rock-Paper-Scissors
 
-- Project Name: 'Save The Fish';
+- Project Name: 'Rock-Paper-Scissors';
 - Status: Concluded;
 - Languages: HTML/CSS/JavaScript;
 - Softwares/Work Tools: 'CodePen Web';
